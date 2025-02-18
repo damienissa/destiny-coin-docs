@@ -1,4 +1,4 @@
-# **🚀 Destiny Coin (DST) Whitepaper V1🐱**
+# **🚀 Destiny Coin (DST) Whitepaper 🐱**
 
 ## **1. Introduction**
 ### **1.1 What is Destiny Coin (DST)?**
@@ -19,15 +19,18 @@ To establish DST as a **leading meme token** on Solana by integrating **DeFi ele
 
 | **Category**               | **Allocation (%)** | **Details** |
 |----------------------------|--------------------|-------------|
-| 🎉 **Community & Rewards**    | 50%                | Airdrops, staking rewards, tipping system |
+| 🎉 **Community & Rewards**    | 40%                | Airdrops, staking rewards, tipping system |
 | 💧 **Liquidity & Exchanges**  | 20%                | LP on Raydium, CEX listings |
+| 🎯 **IDO / Pre-Sale**         | 20%                | Raising SOL for liquidity via IDO |
 | 👨‍💻 **Team & Development**     | 10%                | Locked with 6-month cliff, vested over 24 months |
 | 📢 **Marketing & Growth**     | 10%                | Influencer campaigns, partnerships |
-| 🔥 **Burn Mechanism / Treasury** | 10%           | Manual burns & strategic supply control |
 
-### **2.2 Liquidity Pool & Market Cap 📊**
-- **Initial Liquidity:** 100 SOL (~$20,000) paired with **100,000,000 DST**
-- **Liquidity Locking:** 🔒 80% locked for **6-12 months**
+### **2.2 Initial DEX Offering (IDO) 📊**
+- **Launchpad:** Raydium AcceleRaytor / Solstarter / Dexlab (TBD)
+- **Pre-sale Allocation:** 200,000,000 DST (20% of total supply)
+- **Target Raise:** 100 SOL (~$20,000)
+- **IDO Price:** 1 DST = 0.0000005 SOL
+- **Liquidity Locking:** 🔒 80% of raised funds locked for **6-12 months**
 - **Projected MarketCap:** **$20,000 at launch**
 
 ## **3. Utility & Ecosystem 🏗️**
@@ -50,18 +53,19 @@ DST holders can stake their tokens for rewards:
 - 🎮 **Play-to-Earn (P2E):** Future integration into gaming rewards.
 
 ## **4. Roadmap 🗺️**
-### **Phase 1 - Q1 2025: Launch & Initial Growth**
+### **Phase 1 - Q2 2025: Launch & Initial Growth**
 🔜 Token Deployment & Smart Contract Audit  
+🔜 IDO Setup & Launch  
 🔜 Liquidity Pool on Raydium  
 🔜 Staking & Yield Farming  
 🔜 Initial Airdrop & Community Growth  
 
-### **Phase 2 - Q2 2025: Expansion & Engagement**
+### **Phase 2 - Q3 2025: Expansion & Engagement**
 🔜 CEX Listings (MEXC, Gate.io)  
 🔜 NFT Integration  
 🔜 Community Voting & DAO Structure  
 
-### **Phase 3 - Q3 2025: Scaling Up**
+### **Phase 3 - Q4 2025: Scaling Up**
 🔜 Advanced DeFi Features  
 🔜 Partnerships with Web3 Projects  
 🔜 Increased Marketing & Adoption  
@@ -93,7 +97,6 @@ DST holders can stake their tokens for rewards:
 Destiny Coin ($DST) is designed to be **fun, rewarding, and sustainable**. By leveraging **staking, burns, and real community engagement**, DST aims to become a **top meme token on Solana** with long-term value. 🚀
 
 ## **9. Official Links 🔗**
-- **🌍 Website:** [Coming Soon]
-- **🐦 Twitter:** [@destinycoin]
-- **💬 Telegram:** [@dstcommunity]
+- **🌍 Website:** https://destiny-coin.tech/
+- **💬 Telegram:** https://t.me/destiny_coin
 - **💧 Raydium LP:** [Coming Soon]
