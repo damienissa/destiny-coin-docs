@@ -25,6 +25,8 @@ To establish DST as a **leading meme token** on Solana by integrating **DeFi ele
 | 👨‍💻 **Team & Development**     | 10%                | Locked with 6-month cliff, vested over 24 months |
 | 📢 **Marketing & Growth**     | 10%                | Influencer campaigns, partnerships |
 
+<img src="./chart.svg">
+
 ### **2.2 Initial DEX Offering (IDO) 📊**
 - **Launchpad:** Raydium AcceleRaytor / Solstarter / Dexlab (TBD)
 - **Pre-sale Allocation:** 200,000,000 DST (20% of total supply)
