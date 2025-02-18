@@ -36,6 +36,7 @@ To establish DST as a **leading meme token** on Solana by integrating **DeFi ele
 ## **3. Utility & Ecosystem 🏗️**
 ### **3.1 Staking & Yield Farming 🌾**
 DST holders can stake their tokens for rewards:
+
 | **Staking Tier** | **Lock Time** | **APY** |
 |-----------------|--------------|--------|
 | 🟢 Basic Staking  | No Lock       | 15%    |
@@ -97,6 +98,6 @@ DST holders can stake their tokens for rewards:
 Destiny Coin ($DST) is designed to be **fun, rewarding, and sustainable**. By leveraging **staking, burns, and real community engagement**, DST aims to become a **top meme token on Solana** with long-term value. 🚀
 
 ## **9. Official Links 🔗**
-- **🌍 Website:** https://destiny-coin.tech/
-- **💬 Telegram:** https://t.me/destiny_coin
-- **💧 Raydium LP:** [Coming Soon]
+- **🌍 Website:** [https://destiny-coin.tech/](https://destiny-coin.tech/)
+- **💬 Telegram:** [https://t.me/destiny_coin](https://t.me/destiny_coin)
+- **💧 Raydium LP:** [Coming Soon](https://t.me/destiny_coin)
