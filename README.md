@@ -51,10 +51,10 @@ DST holders can stake their tokens for rewards:
 
 ## **4. Roadmap 🗺️**
 ### **Phase 1 - Q1 2025: Launch & Initial Growth**
-✅ Token Deployment & Smart Contract Audit  
-✅ Liquidity Pool on Raydium  
-✅ Staking & Yield Farming  
-✅ Initial Airdrop & Community Growth  
+🔜 Token Deployment & Smart Contract Audit  
+🔜 Liquidity Pool on Raydium  
+🔜 Staking & Yield Farming  
+🔜 Initial Airdrop & Community Growth  
 
 ### **Phase 2 - Q2 2025: Expansion & Engagement**
 🔜 CEX Listings (MEXC, Gate.io)  
